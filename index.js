@@ -1,3 +1,5 @@
+//ej 2
+
 const lista = ["fernando",51,true,("1971/08/06")]
 
     const libro = {
